@@ -7,13 +7,13 @@ Most IC2 recipes have remained largely unchanged.
 
 To make the metal former you will need several sub recipes:
 
-[coil]
-[machinecase]
-[toolbox]
+{"image":"coil.png"}
+{"image":"machinecase.png"}
+{"image":"toolbox.png"}
 
 And finally you can make the former itself:
 
-[metalformer]
+{"image":"metalformer.png"}
 
 This will require some form of IC2 power, from a IC2 generator or converting your RF power generation to EU with Immersive Engineering cables.
 
@@ -21,14 +21,14 @@ There are 3 modes within the machine itself.
 
 Cutting for wires:
 
-[cutting]
+{"image":"cutting.png"}
 
 Extruding for cells rods and other metal parts:
 
-[extruding]
+{"image":"extruding.png"}
 
 Rolling for plates:
 
-[rolling]
+{"image":"rolling.png"}
 
 For more information on IC2 machines, automation, and parts.  Check out the IC2 wiki, it has quite a good amount of information, and in Infinity Evolved most recipes have not changed.

@@ -2,45 +2,40 @@
 §0Witchery starts out with a bit of Agricraft to get your seeds needed to really get going in the mod.
 First you will want to get yourself some water artichoke seeds from grass:
 
-[seed4]
+{"image":"seed4.png"}
 
 Then start crossbreeding to get the other basic witchery seeds.  Keep in mind the first seeds need to be planted on a water trough:
 
-[seed3]
-[seed2]
-[seed1]
+{"image":"seed3.png"}
+{"image":"seed2.png"}
+{"image":"seed1.png"}
 
 Then you will need the Witches Oven:
 
-[witchesoven]
+{"image":"witchesoven.png"}
 
 To cook up some of you basic ingredients for your first Mutandis:
 
-[horned]
+{"image":"horned.png"}
 
 Then the anointing paste so you can change a cauldron into the witches cauldron:
 
-[anointing]
+{"image":"anointing.png"}
 
 Now there is a trick: if you don't have flint and steel, how can you light the fire under the cauldron?  Nitor won't work, so... well, remember the fire charge made in Thaumcraft?  This is the perfect time for that!  You can use a block of coal, or you can use the smeltery to create netherrack.
 
-[netherrack]
+{"image":"netherrack.png"}
 
 With your now lit witches cauldron you can now make the Mutandis:
 
-[mutandis]
+{"image":"mutandis.png"}
 
 Now you can use that on plantlife to change it to a Rowan Sapling so you can cook that down to a Whiff of Magic:
 
-[magic]
+{"image":"magic.png"}
 
 With that you can now make your first Attuned Stone:
 
-[attunedstone]
+{"image":"attunedstone.png"}
 
 And that will get you started into Blood Magic...
-
-
-
-
-

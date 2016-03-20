@@ -4,39 +4,39 @@ It may be worth the time to get the Agricraft versions of the Botania flowers, b
 
 Apothecary:
 
-[petal]
+{"image":"petal.png"}
 
 Then make your pure daisies,  if you still need a bucket to get water into it see getting the bucket.
 
-[puredaisy]
+{"image":"puredaisy.png"}
 
 From here it is fairly basic progression as normal start of Botania, but here is is for reference:
 
-[livingwood]
-[livingrock]
+{"image":"livingwood.png"}
+{"image":"livingrock.png"}
 
 Diluted Mana pool:
 
-[dmanapool]
+{"image":"dmanapool.png"}
 
 Then some basic generating flora:
 
-[daybloom]
-[nightshade]
+{"image":"daybloom.png"}
+{"image":"nightshade.png"}
 
 Then a regular mana pool:
 
-[manapool]
+{"image":"manapool.png"}
 
 Once you have that initial setup, then we would want to increase that mana generation with some endoflames:
 
-[endoflame]
+{"image":"endoflame.png"}
 
 Then you can start producing your mana items (pearls/steel/glass) which you will need for many other magic recipes.
 
 Note: Manasteel can be made from either steel or iron, however iron is double the mana cost:
 
-[manasteel1]
-[manasteel2]
+{"image":"manasteel1.png"}
+{"image":"manasteel2.png"}
 
 Now you have the basics you will need to start the magic adventure!

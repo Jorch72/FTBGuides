@@ -1,3 +1,5 @@
 {
-  "minecraft:bucket": "Getting Started/Getting the Bucket"
+  "expert": {
+    "minecraft:bucket": "Getting Started/Getting the Bucket"
+  }
 }

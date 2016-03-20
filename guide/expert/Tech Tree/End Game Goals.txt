@@ -4,24 +4,24 @@
 Well Applied Energistics is very end game in Expert Mode.
 Just take a look at the controller recipe:
 
-[controller]
+{"image":"controller.png"}
 
 And lots of Iridium for that:
 
-[iridium]
+{"image":"iridium.png"}
 
 And even further recipes will require the extreme crafting table:
 
-[ingot]
-[diretable]
+{"image":"ingot.png"}
+{"image":"diretable.png"}
 
 And then you can make that angel ring:
 
-[angel]
+{"image":"angel.png"}
 
 And even creative cells and tanks:
 
-[cell]
-[tank]
+{"image":"cell.png"}
+{"image":"tank.png"}
 
 Have fun!

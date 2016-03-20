@@ -11,15 +11,15 @@ Let take a look at the changes to the recipes in Evolved.
 
 Water wheel:
 
-[segment]
-[waterwheel]
+{"image":"segment.png"}
+{"image":"waterwheel.png"}
 
 The Dynamo:
 
-[dynamo]
+{"image":"dynamo.png"}
 
 And an example setup:
 
-[watersetup]
+{"image":"watersetup.png"}
 
-You could also go with a wind power setup, or perhaps some IC2 power.  
+You could also go with a wind power setup, or perhaps some IC2 power.

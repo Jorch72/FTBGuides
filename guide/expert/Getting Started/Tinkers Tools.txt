@@ -7,7 +7,4 @@ You will want to gather some iron, some coal, and perhaps loot a bit for smelter
 
 Tool Forge Recipe:
 
-[toolforge]
-
-
-
+{"image":"toolforge.png"}

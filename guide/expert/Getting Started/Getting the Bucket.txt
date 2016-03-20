@@ -5,21 +5,18 @@ And here is how you do it:
 
 You will need 2 treated sticks:
 
-[treated]
+{"image":"treated.png"}
 
 This requires creosote oil, a by product from transforming coal into coal coke in a coke oven.
 
 Then you can craft the IC2 Hammer:
 
-[hammer]
+{"image":"hammer.png"}
 
 Then you craft the Iron Plates:
 
-[ironplate]
+{"image":"ironplate.png"}
 
 Then finally you can craft your bucket:
 
-[bucket]
-
-
-
+{"image":"bucket.png"}
