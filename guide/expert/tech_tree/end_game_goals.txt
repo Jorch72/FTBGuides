@@ -1,27 +1,28 @@
-§2§lEnd Game Goals
-§0So where does all this lead to?
+Â§2Â§lEnd Game Goals
+
+So where does all this lead to?
 
 Well Applied Energistics is very end game in Expert Mode.
 Just take a look at the controller recipe:
 
-{"image":"controller.png"}
+{"image":"controller.png", "scale":-3}
 
 And lots of Iridium for that:
 
-{"image":"iridium.png"}
+{"image":"iridium.png", "scale":-3}
 
 And even further recipes will require the extreme crafting table:
 
-{"image":"ingot.png"}
-{"image":"diretable.png"}
+{"image":"ingot.png", "scale":-3}
+{"image":"diretable.png", "scale":-3}
 
 And then you can make that angel ring:
 
-{"image":"angel.png"}
+{"image":"angel.png", "scale":-3}
 
 And even creative cells and tanks:
 
-{"image":"cell.png"}
-{"image":"tank.png"}
+{"image":"cell.png", "scale":-3}
+{"image":"tank.png", "scale":-3}
 
 Have fun!

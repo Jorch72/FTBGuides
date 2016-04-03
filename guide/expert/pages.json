@@ -1,0 +1,48 @@
+{
+  "pages": {
+    "getting_started": {
+      "name": "Getting Started",
+      "pages": {
+        "first_days": "First Days",
+        "first_tools": "First Tools",
+        "tinkers_tools": "Tinkers Tools",
+        "getting_the_bucket": "Getting the Bucket",
+        "beyond_the_bucket": "Beyond the Bucket"
+      }
+    },
+    "tech_tree": {
+      "name": "Tech Tree",
+      "pages": {
+        "power_options": "Power Options",
+        "machinery": "Machinery",
+        "ic2_machines": "IC2 Machines",
+        "upgrading_power": "Upgrading Power",
+        "more_progression": "More Progression",
+        "end_game_goals": "End Game Goals"
+      }
+    },
+    "magic_tree": {
+      "name": "Magic Tree",
+      "pages": {
+        "magic_overview": "Magic Overview",
+        "first_mana": "First Mana",
+        "thaumcraft": "Thaumcraft",
+        "witchery": "Witchery",
+        "blood_magic": "Blood Magic",
+        "blood_orb": "Blood Orb",
+        "runic_alter": "Runic Alter",
+        "goals": "Goals"
+      }
+    },
+    "tips": {
+      "name": "Tips",
+      "pages": {
+        "time_gates": "Time Gates",
+        "storage": "Storage"
+      }
+    },
+    "admin_cmds": {
+      "copy_of": "common/admin_cmds"
+    }
+  }
+}

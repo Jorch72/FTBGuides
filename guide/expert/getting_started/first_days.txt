@@ -1,6 +1,6 @@
-§1§lWelcome to §1§lF§2§lT§4§lB §1§lInfinity Evolved!
-§2Getting Started Guide
-§4First Few Days
+Â§1Â§lWelcome to Â§1Â§lFÂ§2Â§lTÂ§4Â§lB Â§1Â§lInfinity Evolved!
+Â§2Getting Started Guide
+Â§4First Few Days
 
 Getting started in Evolved may seem very familiar at first, however you will quickly find some things far more difficult than before.  
 

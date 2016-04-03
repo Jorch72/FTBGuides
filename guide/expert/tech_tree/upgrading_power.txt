@@ -1,5 +1,5 @@
-§2§lUpgrading Power
-§0
+Â§2Â§lUpgrading Power
+
 At this point, you may be feeling the need for more POWER!
 There are many more options open to you at this point, but the Immersive Engineering options may be the easiest.
 
@@ -11,12 +11,12 @@ Let take a look at the changes to the recipes in Evolved.
 
 Water wheel:
 
-{"image":"segment.png"}
-{"image":"waterwheel.png"}
+{"image":"segment.png", "scale":-3}
+{"image":"waterwheel.png", "scale":-3}
 
 The Dynamo:
 
-{"image":"dynamo.png"}
+{"image":"dynamo.png", "scale":-3}
 
 And an example setup:
 

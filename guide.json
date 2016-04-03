@@ -6,8 +6,10 @@
     "Rajecent",
     "Moxiegrrl"
   ],
+  "modes": [
+    "normal",
+    "expert"
+  ],
   "format": "txt",
-  "linked_with": "",
-  "file_name": "FTB_Infinity",
-  "version_list_url": ""
+  "file_name": "FTB_Infinity"
 }

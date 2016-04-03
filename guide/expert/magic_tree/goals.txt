@@ -1,6 +1,7 @@
-§2§lCreative Pool
-§0And now... for the hardest item to create in Expert Mode at the time of release:
+Â§2Â§lCreative Pool
 
-{"image":"cpool.png"}
+And now... for the hardest item to create in Expert Mode at the time of release:
+
+{"image":"cpool.png", "scale":-3}
 
 Good luck and have fun!

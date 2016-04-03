@@ -1,17 +1,18 @@
-§2§lYour First Tools
-§0At first you punch trees make a crafting table, and make those first wooden tools.  
+Â§2Â§lYour First Tools
+
+At first you punch trees make a crafting table, and make those first wooden tools.  
 A couple of catches however, first each log will only make 2 planks! And that first wooden pickaxe will only mine 6 blocks!
 
-{"image":"woodenpick.png"}
+{"image":"woodenpick.png", "scale":-3}
 
 Then it's time to upgrade to the stone pick!
 
-{"image":"stonepick.png"}
+{"image":"stonepick.png", "scale":-3}
 
 The stone tools are the last vanilla tools that have any use.  From this point on you will need to get into Tinkers Construct to get higher tools of any use.
 
-{"image":"ironpick.png"}
+{"image":"ironpick.png", "scale":-3}
 
 Next you will need to make a furnace to cook up all those ores you have gathered. In Expert mode this will require compressed cobblestone.
 
-{"image":"furnace.png"}
+{"image":"furnace.png", "scale":-3}

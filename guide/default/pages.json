@@ -1,0 +1,11 @@
+{
+  "pages": {
+    "admin_cmds": {
+      "name": "Admin Commands",
+      "pages": {
+        "ftb_lib": "FTB Lib",
+        "ftb_utils": "FTB Utilities"
+      }
+    }
+  }
+}
