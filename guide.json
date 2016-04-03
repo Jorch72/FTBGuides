@@ -2,14 +2,8 @@
   "name": "FTB Infinity Evolved",
   "type": "modpack",
   "version": "1.0.0",
-  "authors": [
-    "Rajecent",
-    "Moxiegrrl"
-  ],
-  "modes": [
-    "normal",
-    "expert"
-  ],
+  "authors": ["FTB Team"],
+  "modes": ["normal", "expert"],
   "format": "txt",
   "file_name": "FTB_Infinity"
 }
