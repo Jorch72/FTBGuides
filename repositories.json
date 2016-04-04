@@ -1,6 +1,6 @@
-[
-  "LatvianModder/ModGuides/ftbl",
-  "LatvianModder/ModGuides/ftbu",
+{
+  "FTBLib": "LatvianModder/ModGuides/ftbl",
+  "FTBUtilities": "LatvianModder/ModGuides/ftbu",
   
-  "Slowpoke101/FTBGuides/ftb-infinity"
-]
+  "FTBInfinityEvolved": "Slowpoke101/FTBGuides/ftb-infinity"
+}
