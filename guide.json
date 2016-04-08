@@ -3,6 +3,5 @@
   "type": "modpack",
   "version": "1.0.0",
   "authors": ["FTB Team"],
-  "modes": ["normal", "expert"],
-  "format": "txt"
+  "modes": ["normal", "expert"]
 }
