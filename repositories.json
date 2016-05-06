@@ -1,6 +1,9 @@
 {
-  "FTBLib": "https://raw.githubusercontent.com/LatvianModder/ModGuides/ftbl/",
-  "FTBUtilities": "https://raw.githubusercontent.com/LatvianModder/ModGuides/ftbu/",
-  
-  "FTBInfinityEvolved": "https://raw.githubusercontent.com/Slowpoke101/FTBGuides/ftb-infinity/"
+  "mods": {
+    "FTBLib": "https://raw.githubusercontent.com/LatvianModder/ModGuides/ftbl/info.json",
+    "FTBUtilities": "https://raw.githubusercontent.com/LatvianModder/ModGuides/ftbu/info.json",
+  },
+  "modpacks": {
+    "FTBInfinityEvolved": "https://raw.githubusercontent.com/Slowpoke101/FTBGuides/ftb-infinity/info.json"
+  }
 }
