@@ -1,7 +1,7 @@
 {
   "mods": {
-    "FTBLib": "https://raw.githubusercontent.com/LatvianModder/ModGuides/ftbl/info.json",
-    "FTBUtilities": "https://raw.githubusercontent.com/LatvianModder/ModGuides/ftbu/info.json",
+    "FTBLib": "https://raw.githubusercontent.com/LatvianModder/LatvianModder.github.io/master/guides/ftbl/info.json",
+    "FTBUtilities": "https://raw.githubusercontent.com/LatvianModder/LatvianModder.github.io/master/guides/ftbu/info.json",
   },
   "modpacks": {
     "FTBInfinityEvolved": "https://raw.githubusercontent.com/Slowpoke101/FTBGuides/ftb-infinity/info.json"
