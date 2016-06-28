@@ -1,9 +1,11 @@
 {
-  "mods": {
-    "FTBLib": "http://www.latmod.com/guides/ftbl/info.json",
-    "FTBUtilities": "http://www.latmod.com/guides/ftbu/info.json",
-  },
-  "modpacks": {
-    "FTBInfinityEvolved": "https://raw.githubusercontent.com/Slowpoke101/FTBGuides/ftb-infinity/info.json"
-  }
+  "mods": [
+    "http://www.latmod.com/guide/ftbl/info.json",
+    "http://www.latmod.com/guide/ftbu/info.json"
+  ],
+  "modpacks": [
+    "https://raw.githubusercontent.com/Slowpoke101/FTBGuides/ftb-infinity/info.json"
+  ],
+  "other": [
+  ]
 }
