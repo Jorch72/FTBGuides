@@ -1,0 +1,15 @@
+{
+  "id": "com.feed_the_beast.ftb_infinity_evolved"
+  "name": "FTB Infinity Evolved",
+  "authors": ["FTB Team"],
+  "guide_authors": ["Rajecent", "MoxieGrrl"],
+  "latest_version": "1.0.0",
+  "icon": "https://raw.githubusercontent.com/Slowpoke101/FTBGuides/ftb-infinity/icon.png",
+  "versions": [
+    [
+      "1.0.0",
+      "https://raw.githubusercontent.com/Slowpoke101/FTBGuides/ftb-infinity/guide.json",
+      ["First release"]
+    ]
+  ]
+}
